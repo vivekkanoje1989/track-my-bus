@@ -1,0 +1,19 @@
+{
+  "name": "track-my-bus",
+  "version": "1.0.0",
+  "description": "react application for school bus geo tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekkanoje1989/track-my-bus.git"
+  },
+  "author": "Vivek N Kanoje",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekkanoje1989/track-my-bus/issues"
+  },
+  "homepage": "https://github.com/vivekkanoje1989/track-my-bus#readme"
+}
